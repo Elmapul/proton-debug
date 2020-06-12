@@ -1,0 +1,153 @@
+======================
+Proton: 1561645030 proton-4.2-9
+SteamGameId: 314030
+Command: ['/home/elmapul/.local/share/Steam/steamapps/common/Guilty Gear X2 #Reload/ggx2.exe']
+======================
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object 'libgtk3-nocsd.so.0' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object 'libgtk3-nocsd.so.0' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603640.500:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603640.540:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603640.541:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\wineboot.exe" at 0x7fcfd27d0000: builtin
+603640.547:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7fcfd2650000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603640.591:000c:000d:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603640.592:000c:000d:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\services.exe" at 0x7fe1270a0000: builtin
+603640.594:000c:000d:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7fe126e70000: builtin
+603640.594:000c:000d:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7fe126f00000: builtin
+603640.595:000c:000d:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\userenv.dll" at 0x7fe126e50000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603640.658:000f:0010:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603640.659:000f:0010:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winedevice.exe" at 0x7f5a5a3d0000: builtin
+603640.661:000f:0010:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f5a5a250000: builtin
+603640.662:000f:0010:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 0x7f5a5a1e0000: builtin
+603640.670:000f:0010:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7f5a5a140000: builtin
+603640.707:000f:0014:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\mountmgr.sys" at 0x7f5a5a110000: builtin
+603640.725:000f:0017:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7f5a58ed0000: builtin
+603640.726:000f:0017:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x7f5a58ea0000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603640.726:000f:0017:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7f5a59060000: builtin
+603640.756:0018:0019:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603640.758:0018:0019:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\plugplay.exe" at 0x7f2951dc0000: builtin
+603640.759:0018:0019:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f2951c40000: builtin
+603640.763:0018:0019:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7f2951ba0000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603640.797:001d:001e:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603640.798:001d:001e:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winedevice.exe" at 0x7f595e290000: builtin
+603640.800:001d:001e:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f595e100000: builtin
+603640.800:001d:001e:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 0x7f595e0a0000: builtin
+603640.806:001d:001e:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7f595e000000: builtin
+603640.819:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7f595d970000: builtin
+603640.819:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x7f595d940000: builtin
+603640.819:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7f595db00000: builtin
+603640.819:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x7f595dd50000: builtin
+603640.820:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winebus.sys" at 0x7f595dfd0000: builtin
+603641.133:000f:0017:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x7f5a580b0000: builtin
+603641.134:000f:0017:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x7f5a58240000: builtin
+603641.228:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x7f595cb50000: builtin
+603641.228:001d:0020:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x7f595cce0000: builtin
+603641.430:001d:0023:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\hidclass.sys" at 0x7f595c770000: builtin
+603641.430:001d:0023:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winehid.sys" at 0x7f595c790000: builtin
+603641.432:001d:0023:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\hid.dll" at 0x7f595c760000: builtin
+603641.435:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7fcfd17e0000: builtin
+603641.436:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x7fcfd17b0000: builtin
+603641.436:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7fcfd1960000: builtin
+603641.436:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x7fcfd1bc0000: builtin
+603641.438:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7fcfd1550000: builtin
+603641.438:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x7fcfd1600000: builtin
+603641.438:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x7fcfd1780000: builtin
+603641.564:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x7fcfd08d0000: builtin
+603641.565:000a:000b:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7fcfd1c50000: builtin
+603641.570:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\steam.exe" at 0x7edb0000: builtin
+603641.572:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7ecf0000: builtin
+603641.574:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7e9c0000: builtin
+603641.574:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x7e9a0000: builtin
+603641.575:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7eb00000: builtin
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+603641.709:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7e610000: builtin
+603641.710:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x7e6a0000: builtin
+603641.710:0008:0009:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x7e7e0000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603641.738:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603641.739:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\explorer.exe" at 0x7fa1d7190000: builtin
+603641.741:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7fa1d6f70000: builtin
+603641.741:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7fa1d7000000: builtin
+603641.743:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7fa1d6b90000: builtin
+603641.743:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x7fa1d6b60000: builtin
+603641.743:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7fa1d6d10000: builtin
+Setting breakpad minidump AppID = 314030
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198077549615 [API loaded no]
+ERROR: ld.so: object 'libgtk3-nocsd.so.0' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+603641.836:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\KERNEL32.dll" at 0x7b420000: builtin
+603641.837:0029:002a:trace:loaddll:load_native_dll Loaded L"Z:\\home\\elmapul\\.local\\share\\Steam\\steamapps\\common\\Guilty Gear X2 #Reload\\ggx2.exe" at 0x400000: native
+603641.841:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7ea30000: builtin
+603641.841:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7eaa0000: builtin
+603641.841:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x7ea10000: builtin
+603641.841:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7ebe0000: builtin
+603641.842:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x7e830000: builtin
+603641.843:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x7e8c0000: builtin
+603641.845:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\msacm32.dll" at 0x7e740000: builtin
+603641.845:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winmm.dll" at 0x7e770000: builtin
+603641.847:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\opengl32.dll" at 0x7a820000: builtin
+603641.847:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\wined3d.dll" at 0x7e5d0000: builtin
+603641.847:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\d3d8.dll" at 0x7e710000: builtin
+603641.848:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\dsound.dll" at 0x7e570000: builtin
+603641.852:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\usp10.dll" at 0x7e200000: builtin
+603641.852:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x7e280000: builtin
+603641.853:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\comctl32.dll" at 0x7e2b0000: builtin
+603641.853:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\dinput8.dll" at 0x7e520000: builtin
+603641.854:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ddraw.dll" at 0x7e190000: builtin
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+603641.880:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x7fa1d5d70000: builtin
+603641.880:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x7fa1d5ef0000: builtin
+603641.881:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0x7fa1d5cb0000: builtin
+603641.907:0008:0026:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0x7e570000: builtin
+603641.913:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x7fa1d4190000: builtin
+603641.914:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x7fa1d4150000: builtin
+603641.914:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7fa1d4220000: builtin
+603641.926:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\oleaut32.dll" at 0x7fa1cfd40000: builtin
+603641.926:0027:0028:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\actxprxy.dll" at 0x7fa1cfec0000: builtin
+603642.012:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0x7de60000: builtin
+603642.022:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\uxtheme.dll" at 0x7ddd0000: builtin
+603642.024:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shfolder.dll" at 0x7ddc0000: builtin
+603642.030:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x7d3a0000: builtin
+603642.030:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x7d370000: builtin
+603642.030:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7d410000: builtin
+603642.031:0029:002a:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\shfolder.dll" : builtin
+603642.616:0029:002f:fixme:d3d:state_linepattern_w Setting line patterns is not supported in OpenGL core contexts.
+603642.622:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\oleaut32.dll" at 0x7baf0000: builtin
+603642.622:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\mmdevapi.dll" at 0x7c0d0000: builtin
+603642.627:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winepulse.drv" at 0x7c0a0000: builtin
+603642.633:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winealsa.drv" at 0x7bd30000: builtin
+603642.633:0029:002a:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\winealsa.drv" : builtin
+603643.231:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\msvfw32.dll" at 0x7bd30000: builtin
+603643.232:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\quartz.dll" at 0x7b820000: builtin
+603643.232:0029:002a:err:quartz:GetClassMediaFile Media class not found
+603643.237:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\avicap32.dll" at 0x7ba20000: builtin
+603643.238:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\msdmo.dll" at 0x7b3f0000: builtin
+603643.238:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\devenum.dll" at 0x7ba30000: builtin
+603643.254:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\winealsa.drv" at 0x7b3c0000: builtin
+603643.276:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\msacm32.drv" at 0x7b2a0000: builtin
+603643.277:0029:002a:trace:loaddll:load_builtin_dll Loaded L"C:\\windows\\system32\\midimap.dll" at 0x7b280000: builtin
+603643.277:0029:002a:err:winediag:MIDIMAP_drvOpen No software synthesizer midi port found, Midi sound output probably won't work.
+603643.280:0029:002a:fixme:quartz:MPEGSplitter_QueryInterface No interface for {37d84f60-42cb-11ce-8135-00aa004bb851}!
+603643.280:0029:002a:fixme:quartz:MPEGSplitter_query_accept MPEG-1 system streams not yet supported.
+603643.291:0029:002a:err:quartz:GetClassMediaFile Media class not found
+603643.311:0029:002a:fixme:quartz:MPEGSplitter_QueryInterface No interface for {37d84f60-42cb-11ce-8135-00aa004bb851}!
+603643.311:0029:002a:fixme:quartz:MPEGSplitter_query_accept MPEG-1 system streams not yet supported.
+603643.320:0029:002a:err:quartz:GetClassMediaFile Media class not found
+603643.341:0029:002a:fixme:quartz:MPEGSplitter_QueryInterface No interface for {37d84f60-42cb-11ce-8135-00aa004bb851}!
+603643.341:0029:002a:fixme:quartz:MPEGSplitter_query_accept MPEG-1 system streams not yet supported.
+603650.875:001d:0021:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\winehid.sys" : builtin
+603650.877:001d:0021:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\hidclass.sys" : builtin
+603650.877:001d:0021:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\hid.dll" : builtin
+pid 20876 != 20875, skipping destruction (fork without exec?)

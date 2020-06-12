@@ -1,0 +1,368 @@
+======================
+Proton: 1591828072 proton-5.0-9
+SteamGameId: 314030
+Command: ['/home/elmapul/.local/share/Steam/steamapps/common/Guilty Gear X2 #Reload/ggx2.exe']
+Options: {'forcelgadd'}
+======================
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object 'libgtk3-nocsd.so.0' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object 'libgtk3-nocsd.so.0' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+esync: up and running.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603828.154:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603828.155:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603828.156:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\wineboot.exe" at 0x400000: PE builtin
+603828.161:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7f84adc60000: builtin
+603828.161:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f84addb0000: builtin
+603828.162:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7f84adb90000: builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603828.238:0030:0034:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603828.238:0030:0034:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603828.239:0030:0034:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\services.exe" at 0x400000: PE builtin
+603828.244:0030:0034:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7fa0e55f0000: builtin
+603828.244:0030:0034:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7fa0e5740000: builtin
+603828.245:0030:0034:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7fa0e5520000: builtin
+603828.246:0030:0034:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+603828.250:0030:0034:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65780000: PE builtin
+603828.250:0030:0034:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a700000: PE builtin
+603828.251:0030:0034:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\userenv.dll" at 0x67d00000: PE builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603828.381:003c:0040:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603828.381:003c:0040:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603828.383:003c:0040:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\plugplay.exe" at 0x400000: PE builtin
+603828.389:003c:0040:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7f9772c60000: builtin
+603828.389:003c:0040:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f9772da0000: builtin
+603828.391:003c:0040:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7f9772b80000: builtin
+603828.425:003c:0040:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603828.506:0058:005c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603828.506:0058:005c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603828.507:0058:005c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\winedevice.exe" at 0x400000: PE builtin
+603828.513:0058:005c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7f9117760000: builtin
+603828.513:0058:005c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f91178b0000: builtin
+603828.515:0058:005c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7f9117690000: builtin
+603828.517:0058:005c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 0x67a00000: PE builtin
+603828.554:0058:005c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+603828.603:0058:0064:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\drivers\\winebus.sys" at 0x7f9117640000: builtin
+603828.606:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65780000: PE builtin
+603828.606:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a700000: PE builtin
+603828.623:0058:0064:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7f91172a0000: builtin
+603828.625:0058:0064:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7f9117020000: builtin
+603828.625:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65000000: PE builtin
+603829.081:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6bec0000: PE builtin
+603829.109:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\hidclass.sys" at 0x62c40000: PE builtin
+603829.109:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\drivers\\winehid.sys" at 0x6b3c0000: PE builtin
+603829.118:0058:0064:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\hid.dll" at 0x64b80000: PE builtin
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+603829.435:0078:007c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603829.435:0078:007c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603829.437:0078:007c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\winedevice.exe" at 0x400000: PE builtin
+603829.449:0078:007c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7f7ea5fe0000: builtin
+603829.449:0078:007c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f7ea6120000: builtin
+603829.456:0078:007c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7f7ea5f00000: builtin
+603829.460:0078:007c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 0x67a00000: PE builtin
+603829.525:0078:007c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+603829.580:0078:008c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\drivers\\mountmgr.sys" at 0x7f7ea5ec0000: builtin
+603829.611:0078:0094:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7f7ea4c20000: builtin
+603829.613:0078:0094:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65780000: PE builtin
+603829.613:0078:0094:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7f7ea4de0000: builtin
+603829.825:0078:0094:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65000000: PE builtin
+603829.825:0078:0094:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6bec0000: PE builtin
+603829.832:0078:008c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a700000: PE builtin
+603829.849:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7f84acf90000: builtin
+603829.853:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65780000: PE builtin
+603829.854:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7f84acd10000: builtin
+603829.854:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x68a40000: PE builtin
+603829.857:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+603829.857:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65000000: PE builtin
+603829.857:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x64940000: PE builtin
+603830.000:0028:002c:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6bec0000: PE builtin
+603830.006:0028:002c:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7f84ad140000: builtin
+603830.014:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603830.014:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b420000: builtin
+603830.017:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\steam.exe" at 0x7ed90000: builtin
+603830.023:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7ec90000: builtin
+603830.023:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7ecd0000: builtin
+603830.025:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7eb40000: builtin
+603830.028:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7ea80000: builtin
+603830.030:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fdc0000: PE builtin
+603830.033:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65980000: PE builtin
+603830.033:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7e850000: builtin
+603830.033:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65200000: PE builtin
+603830.042:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x68c40000: PE builtin
+603830.042:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x64b40000: PE builtin
+603830.042:0020:0024:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7d790000: builtin
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+603830.200:0020:0024:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6c0c0000: PE builtin
+603830.224:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603830.225:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603830.226:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\explorer.exe" at 0x400000: PE builtin
+603830.233:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7f0ef6820000: builtin
+603830.233:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7f0ef6970000: builtin
+603830.235:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7f0ef6680000: builtin
+603830.237:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7f0ef65a0000: builtin
+603830.240:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+603830.243:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65780000: PE builtin
+603830.243:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7f0ef6320000: builtin
+Setting breakpad minidump AppID = 314030
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198077549615 [API loaded no]
+603830.417:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65000000: PE builtin
+603830.417:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6bec0000: PE builtin
+603830.440:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a700000: PE builtin
+603830.441:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0x7f0ef5600000: builtin
+603830.512:0020:0098:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a900000: PE builtin
+603830.512:0020:0098:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0xf6020000: builtin
+603830.523:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603830.523:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b410000: builtin
+603830.525:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x68a40000: PE builtin
+603830.525:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\explorer.exe" at 0x400000: PE builtin
+603830.526:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x64940000: PE builtin
+603830.528:009c:00a0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7f0ef2da0000: builtin
+603830.531:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7fe251e40000: builtin
+603830.531:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7fe251f80000: builtin
+603830.534:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7fe251ca0000: builtin
+603830.537:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7fe251bb0000: builtin
+603830.539:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fbc0000: PE builtin
+603830.543:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65780000: PE builtin
+603830.544:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\user32.dll" at 0x7fe251930000: builtin
+603830.548:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\oleaut32.dll" at 0x6a100000: PE builtin
+603830.549:009c:00a0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\actxprxy.dll" at 0xa70000: PE builtin
+603830.759:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65000000: PE builtin
+603830.759:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6bec0000: PE builtin
+603830.781:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a700000: PE builtin
+603830.781:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0x7fe250c10000: builtin
+603830.843:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x68a40000: PE builtin
+603830.844:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x64940000: PE builtin
+603830.845:00a8:00ac:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0x7fe24e400000: builtin
+603830.863:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\oleaut32.dll" at 0x6a100000: PE builtin
+603830.864:00a8:00ac:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\actxprxy.dll" at 0x860000: PE builtin
+ERROR: ld.so: object 'libgtk3-nocsd.so.0' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/elmapul/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+603830.903:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\kernelbase.dll" at 0x7b000000: PE builtin
+603830.903:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\kernel32.dll" at 0x7b420000: builtin
+603830.904:00c0:00c4:trace:loaddll:load_native_dll Loaded L"Z:\\home\\elmapul\\.local\\share\\Steam\\steamapps\\common\\Guilty Gear X2 #Reload\\ggx2.exe" at 0x400000: native
+603830.913:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\sechost.dll" at 0x7e9b0000: builtin
+603830.914:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\advapi32.dll" at 0x7e9f0000: builtin
+603830.914:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\gdi32.dll" at 0x7ea70000: builtin
+603830.917:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\msvcrt.dll" at 0x7e8f0000: builtin
+603830.917:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\version.dll" at 0x65980000: PE builtin
+603830.917:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\USER32.dll" at 0x7ebd0000: builtin
+603830.919:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0x6fdc0000: PE builtin
+603830.919:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\ole32.dll" at 0x65200000: PE builtin
+603830.922:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\msacm32.dll" at 0x66640000: PE builtin
+603830.922:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\WINMM.dll" at 0x639c0000: PE builtin
+603830.927:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\opengl32.dll" at 0x7a840000: builtin
+603830.927:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\wined3d.dll" at 0x7e780000: builtin
+603830.927:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\d3d8.dll" at 0x69540000: PE builtin
+603830.930:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 0x7e650000: builtin
+603830.931:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\DSOUND.dll" at 0x6d5c0000: PE builtin
+603830.935:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\imm32.dll" at 0x6c0c0000: PE builtin
+603830.936:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\usp10.dll" at 0x62800000: PE builtin
+603830.936:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\comctl32.dll" at 0x6e8c0000: PE builtin
+603830.937:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\setupapi.dll" at 0x6a900000: PE builtin
+603830.938:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\hid.dll" at 0x64d80000: PE builtin
+603830.938:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\DINPUT8.dll" at 0x7e5c0000: builtin
+603830.940:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\DDRAW.dll" at 0x66cc0000: PE builtin
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 72: non-double matrix element
+Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 80: saw unknown, expected number
+603831.099:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winex11.drv" at 0x7e1f0000: builtin
+603831.159:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\uxtheme.dll" at 0x62340000: PE builtin
+603831.165:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\Shfolder.dll" at 0x6d8c0000: PE builtin
+603831.175:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0x68c40000: PE builtin
+603831.176:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\shcore.dll" at 0x64b40000: PE builtin
+603831.177:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\shell32.dll" at 0xf5780000: builtin
+603831.178:00c0:00c4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\Shfolder.dll" : builtin
+603831.546:00c0:00c4:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+603831.703:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\dxvk_config.dll" at 0x69240000: native
+603831.727:00c0:00cc:fixme:d3d:state_linepattern_w Setting line patterns is not supported in OpenGL core contexts.
+603831.732:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\oleaut32.dll" at 0x6a300000: PE builtin
+603831.732:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\mmdevapi.dll" at 0x70340000: PE builtin
+603831.738:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winepulse.drv" at 0xf3b90000: builtin
+603831.750:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winealsa.drv" at 0xf36a0000: builtin
+603831.753:00c0:00c4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\winealsa.drv" : builtin
+603832.297:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\msvfw32.dll" at 0x360000: PE builtin
+603832.298:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\quartz.dll" at 0x6f3c0000: PE builtin
+603832.313:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\propsys.dll" at 0x69e80000: PE builtin
+603832.315:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rtworkq.dll" at 0x65880000: PE builtin
+603832.315:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\mfplat.dll" at 0x71400000: PE builtin
+603832.315:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winegstreamer.dll" at 0xef670000: builtin
+603832.322:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\avicap32.dll" at 0xeefa0000: builtin
+603832.323:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\msdmo.dll" at 0x70b80000: PE builtin
+603832.323:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\devenum.dll" at 0x6cbc0000: PE builtin
+603832.335:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\atl100.dll" at 0x67300000: PE builtin
+603832.340:00c0:00c4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\winegstreamer.dll" : builtin
+603832.340:00c0:00c4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\mfplat.dll" : builtin
+603832.340:00c0:00c4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\rtworkq.dll" : builtin
+603832.340:00c0:00c4:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\propsys.dll" : builtin
+603832.366:00c0:00c4:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winealsa.drv" at 0xef680000: builtin
+603832.374:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\msacm32.drv" at 0x66840000: PE builtin
+603832.380:00c0:00c4:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\midimap.dll" at 0x70f80000: PE builtin
+603832.385:00c0:00c4:err:winediag:MIDIMAP_drvOpen No software synthesizer midi port found, Midi sound output probably won't work.
+603832.396:00c0:00f0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\propsys.dll" at 0x69e80000: PE builtin
+603832.397:00c0:00f0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\rtworkq.dll" at 0x65880000: PE builtin
+603832.397:00c0:00f0:trace:loaddll:load_native_dll Loaded L"C:\\windows\\system32\\mfplat.dll" at 0x71400000: PE builtin
+603832.397:00c0:00f0:trace:loaddll:load_so_dll Loaded L"C:\\windows\\system32\\winegstreamer.dll" at 0xef3b0000: builtin
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.249: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvideoconvert.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvideoconvert.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstisomp4.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstisomp4.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstapp.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstapp.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstcoretracers.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstcoretracers.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvideoscale.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvideoscale.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstpbtypes.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstpbtypes.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstogg.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstogg.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstflxdec.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstflxdec.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstflv.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstflv.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgsttypefindfunctions.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgsttypefindfunctions.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.251: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstaudioconvert.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstaudioconvert.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstadder.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstadder.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstid3demux.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstid3demux.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvideofilter.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvideofilter.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstcoreelements.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstcoreelements.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvorbis.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstvorbis.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstopus.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstopus.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstmpg123.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstmpg123.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstplayback.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstplayback.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstdeinterlace.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstdeinterlace.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstaudioparsers.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstaudioparsers.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstaudioresample.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstaudioresample.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstflac.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstflac.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstautodetect.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstautodetect.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstwavparse.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstwavparse.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.252: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstmatroska.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstmatroska.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.253: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstspeex.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstspeex.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.253: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgsttheora.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgsttheora.so: classe ELF errada: ELFCLASS64
+
+(wine:21134): GStreamer-WARNING **: 08:48:48.253: Failed to load plugin '/home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstavi.so': /home/elmapul/.local/share/Steam/steamapps/common/Proton 5.0/dist/lib64/gstreamer-1.0/libgstavi.so: classe ELF errada: ELFCLASS64
+603832.548:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.548:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.549:00c0:0100:err:gstreamer:watch_bus decodebin0: Your GStreamer installation is missing a plug-in.
+603832.549:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin0/GstDecodeBin:decodebin0:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.557:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.557:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.557:00c0:0100:err:gstreamer:watch_bus decodebin1: Your GStreamer installation is missing a plug-in.
+603832.557:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin1/GstDecodeBin:decodebin1:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.558:00c0:00c4:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.
+603832.577:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.577:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.577:00c0:0100:err:gstreamer:watch_bus decodebin2: Your GStreamer installation is missing a plug-in.
+603832.577:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin2/GstDecodeBin:decodebin2:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.583:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.583:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.583:00c0:0100:err:gstreamer:watch_bus decodebin3: Your GStreamer installation is missing a plug-in.
+603832.583:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin3/GstDecodeBin:decodebin3:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.584:00c0:00c4:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.
+603832.664:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.664:00c0:0100:err:gstreamer:watch_bus decodebin4: Your GStreamer installation is missing a plug-in.
+603832.664:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.664:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin4/GstDecodeBin:decodebin4:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.672:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.672:00c0:0100:err:gstreamer:watch_bus decodebin5: Your GStreamer installation is missing a plug-in.
+603832.672:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin5/GstDecodeBin:decodebin5:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.673:00c0:0104:err:gstreamer:watch_bus typefind: Internal data stream error.
+603832.673:00c0:0104:err:gstreamer:watch_bus ../../proton/gstreamer/plugins/elements/gsttypefindelement.c(1228): gst_type_find_element_loop (): /GstBin:bin5/GstDecodeBin:decodebin5/GstTypeFindElement:typefind:
+streaming stopped, reason not-linked (-1)
+603832.673:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.674:00c0:00c4:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.
+603832.700:00c0:0100:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.700:00c0:0104:err:gstreamer:watch_bus decodebin6: Your GStreamer installation is missing a plug-in.
+603832.700:00c0:0104:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin6/GstDecodeBin:decodebin6:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.700:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.709:00c0:0100:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.709:00c0:0104:err:gstreamer:watch_bus decodebin7: Your GStreamer installation is missing a plug-in.
+603832.709:00c0:0104:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin7/GstDecodeBin:decodebin7:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.709:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.710:00c0:00c4:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.
+603832.758:00c0:0100:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.760:00c0:0104:err:gstreamer:watch_bus decodebin8: Your GStreamer installation is missing a plug-in.
+603832.760:00c0:0104:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin8/GstDecodeBin:decodebin8:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.760:00c0:0100:err:gstreamer:watch_bus typefind: Internal data stream error.
+603832.760:00c0:0100:err:gstreamer:watch_bus ../../proton/gstreamer/plugins/elements/gsttypefindelement.c(1228): gst_type_find_element_loop (): /GstBin:bin8/GstDecodeBin:decodebin8/GstTypeFindElement:typefind:
+streaming stopped, reason not-linked (-1)
+603832.761:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.767:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.767:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.767:00c0:0100:err:gstreamer:watch_bus decodebin9: Your GStreamer installation is missing a plug-in.
+603832.767:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin9/GstDecodeBin:decodebin9:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.768:00c0:00c4:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.
+603832.798:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.798:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.798:00c0:0100:err:gstreamer:watch_bus decodebin10: Your GStreamer installation is missing a plug-in.
+603832.798:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin10/GstDecodeBin:decodebin10:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.803:00c0:0104:err:gstreamer:unknown_type Could not find a filter for caps: "video/mpeg, systemstream=(boolean)true, mpegversion=(int)1"
+603832.803:00c0:00c4:err:gstreamer:gstdecoder_init_gst Failed to play stream.
+603832.803:00c0:0100:err:gstreamer:watch_bus decodebin11: Your GStreamer installation is missing a plug-in.
+603832.803:00c0:0100:err:gstreamer:watch_bus ../../proton/gst-plugins-base/gst/playback/gstdecodebin2.c(4679): gst_decode_bin_expose (): /GstBin:bin11/GstDecodeBin:decodebin11:
+no suitable plugins found:
+Missing decoder: MPEG-1 System Stream (video/mpeg, systemstream=(boolean)true, mpegversion=(int)1)
+
+603832.804:00c0:00c4:fixme:gstreamer:mpeg_splitter_sink_query_accept Unsupported subtype {e436eb84-524f-11ce-9f53-0020af0ba770}.
+603877.459:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\winehid.sys" : builtin
+603877.459:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\hidclass.sys" : builtin
+603877.464:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\winebus.sys" : builtin
+pid 21093 != 21092, skipping destruction (fork without exec?)
